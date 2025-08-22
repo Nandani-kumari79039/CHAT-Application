@@ -57,3 +57,8 @@ CSS for design and responsiveness.
 JavaScript for adding functionality (dynamic messages).
 
 Browser Testing: Chrome or Firefox to check how the chat updates dynamically.
+
+OUTPUT: 
+
+<img width="1063" height="259" alt="Image" src="https://github.com/user-attachments/assets/643bd243-ccd8-4f9b-be62-38d66646a3de" />
+
