@@ -1,4 +1,4 @@
-# CHAT-Applicatation
+# CHAT-Application
 
 CODTECH IT SOLUTIONS
 
